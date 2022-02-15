@@ -1,0 +1,27 @@
+#card {
+  width: 400px;
+  height: 200px;
+  font-family: "Courier New", Courier, monospace;
+  background-image: url(../imagens/backgorund.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 1rem;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#item1 {
+  list-style-image: url("../imagens/Insta.png");
+}
+
+#item2 {
+  list-style-image: url("../imagens/Twitter.png");
+}
+
+#item3 {
+  list-style-image: url("../imagens/Youtube.png");
+}
